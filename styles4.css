@@ -1,0 +1,12 @@
+.wrapper {
+  background-color: #F4F3EE;
+}
+.förklaring-box{
+    background-color: #d3cec6;
+    border: 3px solid #574c44;
+    border-radius: 10px;
+    padding: 2%;
+    width: 800px;
+    height: 270px;
+    margin-top: 25px;
+  }
